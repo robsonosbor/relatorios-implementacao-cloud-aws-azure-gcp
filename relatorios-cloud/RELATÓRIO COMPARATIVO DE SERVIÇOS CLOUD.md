@@ -37,7 +37,7 @@ Valores estimados em **R$ (reais)**, considerando taxa de câmbio de US$ 1 ≈ R
 
 ##  Gráfico Comparativo de Custo
 
-![Gráfico Comparativo de Custo](caminho/para/imagem.png)
+![Gráfico Comparativo de Custo](https://github.com/robsonosbor/relatorios-implementacao-cloud-aws-azure-gcp/blob/main/graficos/grafico-comparativo-custos-consolidado.png)
 
 ---
 
@@ -71,4 +71,5 @@ Embora todos os provedores tenham demonstrado vantagens, a escolha final pode de
 ---
 
 **Assinatura do Responsável pelo Projeto:**  
+
 Robson Alves Batista
