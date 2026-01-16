@@ -7,10 +7,10 @@ O objetivo é demonstrar como cada provedor pode contribuir para **redução ime
 
 ## Conteúdo
 
-- `Relatorio_AWS.md` → Implementação de **Amazon S3, AWS Lambda e Amazon RDS**.  
-- `Relatorio_Azure.md` → Implementação de **Azure Blob Storage, Azure Functions e Azure SQL Database**.  
-- `Relatorio_GCP.md` → Implementação de **Google Cloud Storage, Cloud Functions e Cloud SQL**.  
-- `Relatorio_Comparativo.md` → Consolidado comparativo entre os três provedores.  
+- `RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS.md` → Implementação de **Amazon S3, AWS Lambda e Amazon RDS**.  
+- `RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AZURE.md` → Implementação de **Azure Blob Storage, Azure Functions e Azure SQL Database**.  
+- `RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS GCP - GOOGLE CLOUD.md` → Implementação de **Google Cloud Storage, Cloud Functions e Cloud SQL**.  
+- `RELATÓRIO COMPARATIVO DE SERVIÇOS CLOUD.md` → Consolidado comparativo entre os três provedores.  
 
 ---
 
@@ -50,7 +50,7 @@ Cada provedor apresenta vantagens específicas:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/relatorios-cloud.git
+   git clone https://github.com/robsonosbor/relatorios-implementacao-cloud-aws-azure-gcp.git
    ```
 2. Navegue até a pasta:
    ```bash
