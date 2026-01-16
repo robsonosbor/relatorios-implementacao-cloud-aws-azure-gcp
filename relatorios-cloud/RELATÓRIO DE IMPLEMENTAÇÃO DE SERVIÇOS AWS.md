@@ -56,7 +56,7 @@ A tabela abaixo apresenta uma estimativa comparativa de custos **antes e depois 
 
 ##  Gráfico Comparativo de Custo
 
-![Gráfico Comparativo de Custo](caminho/para/imagem.png)
+![Gráfico Comparativo de Custo](https://github.com/robsonosbor/relatorios-implementacao-cloud-aws-azure-gcp/blob/main/graficos/grafico-comparativo-custos-aws.png)
 
 ---
 
@@ -78,4 +78,5 @@ Recomenda-se a continuidade da utilização desses serviços e a avaliação de 
 ---
 
 **Assinatura do Responsável pelo Projeto:**  
+
 Robson Alves Batista
